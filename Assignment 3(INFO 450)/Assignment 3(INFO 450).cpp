@@ -220,7 +220,7 @@ public:
 		cout << "Please enter amount to withdraw from CD : " << endl;
 		cin >> withdrawamt;
 		cout << "Please enter current term of your account " << endl;
-		cout << "Note:Extra fee charged for early withdrawal(If current term for wtihdraw is less than original term of account)" << endl;
+		cout << "Note:Extra fee charged for early withdrawal(If current term for withdraw is less than original term established for account)" << endl;
 		cin >> accountterm;
 		cin.clear();
 		cin.ignore();
